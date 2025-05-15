@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "tag": 1,
+    "userId": 1,
+    "fach": "Ma",
+    "stunde": 1,
+    "userId1": 1,
+    "fach1": "De"
+  },
+  {
+      "id": 2,
+      "tag": 1,
+      "userId": 1,
+      "fach": "Ma",
+      "stunde": 2,
+      "userId1": 1,
+      "fach1": "Musik"
+  },
+  {
+      "id": 3,
+      "tag": 2,
+      "userId": 1,
+      "fach": "DAZ",
+      "stunde": 1,
+      "userId1": 1,
+      "fach1": "Ma"
+  }
+]
