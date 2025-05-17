@@ -2,27 +2,50 @@
   {
     "id": 1,
     "tag": 1,
-    "userId": 1,
-    "fach": "Kunst",
     "stunde": 1,
-    "userIdNeu": 2,
-    "fachNeu": "De"
+    "grund": "A",
+    "userId": 1,
+    "fach": "Fö",
+    "userIdNeu": 0,
+    "fachNeu": ""
   },
   {
       "id": 2,
       "tag": 1,
+      "stunde": 2,
+      "grund": "",
       "userId": 6,
       "fach": "Ma",
-      "stunde": 2,
       "userIdNeu": 7,
       "fachNeu": "De"
   },
   {
       "id": 3,
       "tag": 2,
+      "stunde": 1,
+      "grund": "",
       "userId": 4,
       "fach": "DAZ",
-      "stunde": 1,
+      "userIdNeu": 5,
+      "fachNeu": "Sport"
+    },
+  {
+      "id": 4,
+      "tag": 2,
+      "stunde": 4,
+      "grund": "K",
+      "userId": 4,
+      "fach": "DAZ",
+      "userIdNeu": 5,
+      "fachNeu": "Eng"
+    },
+  {
+      "id": 5,
+      "tag": 3,
+      "stunde": 5,
+      "grund": "1-4",
+      "userId": 4,
+      "fach": "Musik",
       "userIdNeu": 5,
       "fachNeu": "Sport"
   }
