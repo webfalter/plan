@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tag": 1,
+    "stunde": 1,
+    "grund": 1,
+    "userId": 1,
+    "fach": "Fö",
+    "userIdNeu": 0,
+    "fachNeu": ""
+  },
+  {
+      "id": 2,
+      "tag": 1,
+      "stunde": 2,
+      "grund": 0,
+      "userId": 6,
+      "fach": "Ma",
+      "userIdNeu": 7,
+      "fachNeu": "De"
+  },
+  {
+      "id": 3,
+      "tag": 2,
+      "stunde": 1,
+      "grund": 0,
+      "userId": 4,
+      "fach": "DAZ",
+      "userIdNeu": 5,
+      "fachNeu": "Sport"
+    },
+  {
+      "id": 4,
+      "tag": 2,
+      "stunde": 4,
+      "grund": 2,
+      "userId": 4,
+      "fach": "DAZ",
+      "userIdNeu": 5,
+      "fachNeu": "Eng"
+    },
+  {
+      "id": 5,
+      "tag": 3,
+      "stunde": 5,
+      "grund": 4,
+      "userId": 4,
+      "fach": "Musik",
+      "userIdNeu": 5,
+      "fachNeu": "Sport"
+  },
+    {
+      "id": 6,
+      "tag": 2,
+      "stunde": 1,
+      "grund": 0,
+      "userId": 1,
+      "fach": "Deu",
+      "userIdNeu": 3,
+      "fachNeu": "Ehtik"
+    }
+]
