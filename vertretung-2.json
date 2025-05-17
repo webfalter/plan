@@ -2,14 +2,14 @@
   {
     "id": 1,
     "tag": "Montag",
-    "A": {
+    "a": {
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "B": {
+    "b": {
       "grund": 0,
       "userId": 2,
       "fach": "DAZ",
@@ -20,14 +20,14 @@
   {
     "id": 2,
     "tag": "Dienstag",
-    "A": {
+    "a": {
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "B": {
+    "b": {
       "grund": 0,
       "userId": 2,
       "fach": "DAZ",
@@ -38,14 +38,14 @@
       {
     "id": 3,
     "tag": "Mitwoch",
-    "A": {
+    "a": {
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "B": {
+    "b": {
       "grund": 0,
       "userId": 2,
       "fach": "DAZ",
@@ -56,14 +56,14 @@
   {
     "id": 4,
     "tag": "Donnerstag",
-    "A": {
+    "a": {
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "B": {
+    "b": {
       "grund": 0,
       "userId": 2,
       "fach": "DAZ",
@@ -74,14 +74,14 @@
   {
     "id": 5,
     "tag": "Freitag",
-    "A": {
+    "a": {
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "B": {
+    "b": {
       "grund": 0,
       "userId": 2,
       "fach": "DAZ",
