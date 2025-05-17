@@ -49,4 +49,14 @@
       "userIdNeu": 5,
       "fachNeu": "Sport"
   }
+    {
+      "id": 6,
+      "tag": 2,
+      "stunde": 1,
+      "grund": 0,
+      "userId": 1,
+      "fach": "Deu",
+      "userIdNeu": 3,
+      "fachNeu": "Ehtik"
+    },
 ]
