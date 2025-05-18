@@ -157,42 +157,54 @@
         "facha": "De"
       }
     ],
-    "stundeb": [  {
+    "stundeb": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundec": [  {
+      }
+    ],
+    "stundec": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stunded": [  {
+      }
+    ],
+    "stunded": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundee": [  {
+      }
+    ],
+    "stundee": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundef": [  {
+      }
+    ],
+    "stundef": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundeg": [  {
+      }
+    ],
+    "stundeg": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }]
+      }
+    ]
   },
   {
     "id": "4",
@@ -206,42 +218,54 @@
         "facha": "De"
       }
     ],
-    "stundeb": [  {
+    "stundeb": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundec": [  {
+      }
+    ],
+    "stundec": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stunded": [  {
+      }
+    ],
+    "stunded": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundee": [  {
+      }
+    ],
+    "stundee": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundef": [  {
+      }
+    ],
+    "stundef": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundeg": [  {
+      }
+    ],
+    "stundeg": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }]
+      }
+    ]
   },
   {
     "id": "5",
@@ -255,35 +279,53 @@
         "facha": "De"
       }
     ],
-    "stundeb": [  {
+    "stundeb": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stundec": [  {
+      }
+    ],
+    "stundec": [
+      {
         "name": 1,
         "fach": "Daz",
         "namea": 2,
         "facha": "De"
-      }],
-    "stunded": [  {
+      }
+    ],
+    "stunded": [
+      {
         "name": 0,
         "fach": "",
         "namea": 0,
         "facha": ""
-      }],
-    "stundee": [{        "name": 0,
+      }
+    ],
+    "stundee": [
+      {
+        "name": 0,
         "fach": "",
         "namea": 0,
-        "facha": ""}],
-    "stundef": [{        "name": 0,
+        "facha": ""
+      }
+    ],
+    "stundef": [
+      {
+        "name": 0,
         "fach": "",
         "namea": 0,
-        "facha": ""}],
-    "stundeg": [{        "name": 0,
+        "facha": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "name": 0,
         "fach": "",
         "namea": 0,
-        "facha": ""}]
+        "facha": ""
+      }
+    ]
   }
 ]
