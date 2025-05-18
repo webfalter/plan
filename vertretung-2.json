@@ -268,13 +268,22 @@
         "facha": "De"
       }],
     "stunded": [  {
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De"
+        "name": 0,
+        "fach": "",
+        "namea": 0,
+        "facha": ""
       }],
-    "stundee": [{}],
-    "stundef": [{}],
-    "stundeg": [{}]
+    "stundee": [{        "name": 0,
+        "fach": "",
+        "namea": 0,
+        "facha": ""}],
+    "stundef": [{        "name": 0,
+        "fach": "",
+        "namea": 0,
+        "facha": ""}],
+    "stundeg": [{        "name": 0,
+        "fach": "",
+        "namea": 0,
+        "facha": ""}]
   }
 ]
