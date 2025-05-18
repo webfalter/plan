@@ -2,7 +2,7 @@
   {
     "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
     "isActive": false,
-    "name": "Alford Rodriguez",
+    "name": "Montag",
     "age": 21,
     "company": "Imkan",
     "email": "alfordrodriguez@imkan.com",
@@ -36,6 +36,14 @@
         "namea": 2,
         "facha": "De"
       },
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundeb": [
       {
         "name": 1,
         "fach": "Daz",
