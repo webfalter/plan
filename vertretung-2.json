@@ -2,6 +2,13 @@
   {
     "id": "1",
     "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
     "name": "Montag",
     "stundea": [
       {
@@ -74,7 +81,14 @@
   },
   {
     "id": "2",
-    "isActive": false,
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
     "name": "Dienstag",
     "stundea": [
       {
@@ -147,7 +161,14 @@
   },
   {
     "id": "3",
-    "isActive": false,
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
     "name": "Mittwoch",
     "stundea": [
       {
@@ -208,7 +229,14 @@
   },
   {
     "id": "4",
-    "isActive": false,
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
     "name": "Donnerstag",
     "stundea": [
       {
@@ -269,7 +297,14 @@
   },
   {
     "id": "5",
-    "isActive": false,
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
     "name": "Freitag",
     "stundea": [
       {
