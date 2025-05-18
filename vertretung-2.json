@@ -285,11 +285,6 @@
         "namea": 2,
         "facha": "De"
       }],
-    "stundeg": [  {
-        "name": 0,
-        "fach": "",
-        "namea": 0,
-        "facha": ""
-      }]
+    "stundeg": [{}]
   }
 ]
