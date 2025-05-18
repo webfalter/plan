@@ -298,9 +298,9 @@
     "stunded": [
       {
         "name": 1,
-        "fach": "",
+        "fach": "a",
         "namea": 1,
-        "facha": ""
+        "facha": "a"
       }
     ],
     "stundee": [
@@ -313,7 +313,7 @@
     ],
     "stundef": [
       {
-        "name": 1,
+        "name": 0,
         "fach": "",
         "namea": 1,
         "facha": ""
@@ -321,7 +321,7 @@
     ],
     "stundeg": [
       {
-        "name": 1,
+        "name": 0,
         "fach": "b",
         "namea": 1,
         "facha": "a"
