@@ -286,10 +286,10 @@
         "facha": "De"
       }],
     "stundeg": [  {
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De"
+        "name": 0,
+        "fach": "",
+        "namea": 0,
+        "facha": ""
       }]
   }
 ]
