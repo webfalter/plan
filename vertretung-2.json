@@ -144,5 +144,20 @@
         "facha": "De"
       }
     ]
-  }
+  },
+   {
+    "id": "3",
+    "isActive": false,
+    "name": "Mittwoch",
+    },
+     {
+    "id": "4",
+    "isActive": false,
+    "name": "Donnerstag",
+    },
+     {
+    "id": "5",
+    "isActive": false,
+    "name": "Freitag",
+    }
 ]
