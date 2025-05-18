@@ -157,24 +157,12 @@
         "facha": "De"
       }
     ],
-    "stundeb": [
-     
-    ],
-     "stundec": [
-     
-    ],
-     "stunded": [
-     
-    ],
-     "stundee": [
-     
-    ],
-     "stundef": [
-     
-    ],
-     "stundeg": [
-     
-    ]
+    "stundeb": [],
+    "stundec": [],
+    "stunded": [],
+    "stundee": [],
+    "stundef": [],
+    "stundeg": []
   },
   {
     "id": "4",
@@ -187,25 +175,13 @@
         "namea": 2,
         "facha": "De"
       }
-        ],
-    "stundeb": [
-     
     ],
-     "stundec": [
-     
-    ],
-     "stunded": [
-     
-    ],
-     "stundee": [
-     
-    ],
-     "stundef": [
-     
-    ],
-     "stundeg": [
-     
-     ]
+    "stundeb": [],
+    "stundec": [],
+    "stunded": [],
+    "stundee": [],
+    "stundef": [],
+    "stundeg": []
   },
   {
     "id": "5",
@@ -218,24 +194,12 @@
         "namea": 2,
         "facha": "De"
       }
-        ],
-    "stundeb": [
-     
     ],
-     "stundec": [
-     
-    ],
-     "stunded": [
-     
-    ],
-     "stundee": [
-     
-    ],
-     "stundef": [
-     
-    ],
-     "stundeg": [
-     
-     ]
+    "stundeb": [],
+    "stundec": [],
+    "stunded": [],
+    "stundee": [],
+    "stundef": [],
+    "stundeg": []
   }
 ]
