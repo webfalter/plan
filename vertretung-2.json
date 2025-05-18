@@ -23,5 +23,25 @@
                 "name": "Josefina Rivas"
             }
         ]
+        "stundea": [
+            {
+                "name": 1,
+                "fach": "Daz",
+                "namea": 2,
+                "facha": "De",
+            },
+            {
+                "name": 1,
+                "fach": "Daz",
+                "namea": 2,
+                "facha": "De",
+            },
+            {
+                "name": 1,
+                "fach": "Daz",
+                "namea": 2,
+                "facha": "De",
+            }
+        ]
     }
 ]
