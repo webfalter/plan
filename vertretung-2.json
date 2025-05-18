@@ -156,6 +156,24 @@
         "namea": 2,
         "facha": "De"
       }
+    ],
+    "stundeb": [
+     
+    ],
+     "stundec": [
+     
+    ],
+     "stunded": [
+     
+    ],
+     "stundee": [
+     
+    ],
+     "stundef": [
+     
+    ],
+     "stundeg": [
+     
     ]
   },
   {
@@ -169,7 +187,25 @@
         "namea": 2,
         "facha": "De"
       }
-    ]
+        ],
+    "stundeb": [
+     
+    ],
+     "stundec": [
+     
+    ],
+     "stunded": [
+     
+    ],
+     "stundee": [
+     
+    ],
+     "stundef": [
+     
+    ],
+     "stundeg": [
+     
+    
   },
   {
     "id": "5",
@@ -182,6 +218,24 @@
         "namea": 2,
         "facha": "De"
       }
-    ]
+        ],
+    "stundeb": [
+     
+    ],
+     "stundec": [
+     
+    ],
+     "stunded": [
+     
+    ],
+     "stundee": [
+     
+    ],
+     "stundef": [
+     
+    ],
+     "stundeg": [
+     
+    
   }
 ]
