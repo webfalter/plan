@@ -273,18 +273,8 @@
         "namea": 2,
         "facha": "De"
       }],
-    "stundee": [  {
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De"
-      }],
-    "stundef": [  {
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De"
-      }],
+    "stundee": [{}],
+    "stundef": [{}],
     "stundeg": [{}]
   }
 ]
