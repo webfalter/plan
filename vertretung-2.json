@@ -145,19 +145,43 @@
       }
     ]
   },
-   {
+  {
     "id": "3",
     "isActive": false,
     "name": "Mittwoch",
-    },
-     {
+    "stundea": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ]
+  },
+  {
     "id": "4",
     "isActive": false,
     "name": "Donnerstag",
-    },
-     {
+    "stundea": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ]
+  },
+  {
     "id": "5",
     "isActive": false,
     "name": "Freitag",
-    }
+    "stundea": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ]
+  }
 ]
