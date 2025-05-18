@@ -297,34 +297,34 @@
     ],
     "stunded": [
       {
-        "name": 0,
+        "name": 1,
         "fach": "",
-        "namea": 0,
+        "namea": 1,
         "facha": ""
       }
     ],
     "stundee": [
       {
-        "name": 0,
+        "name": 1,
         "fach": "",
-        "namea": 0,
+        "namea": 1,
         "facha": ""
       }
     ],
     "stundef": [
       {
-        "name": 0,
+        "name": 1,
         "fach": "",
-        "namea": 0,
+        "namea": 1,
         "facha": ""
       }
     ],
     "stundeg": [
       {
-        "name": 0,
-        "fach": "",
-        "namea": 0,
-        "facha": ""
+        "name": 1,
+        "fach": "b",
+        "namea": 1,
+        "facha": "a"
       }
     ]
   }
