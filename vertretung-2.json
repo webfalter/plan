@@ -2,92 +2,112 @@
   {
     "id": 1,
     "tag": "Montag",
-    "a": {
+    "stunde": [
+    {
+      "id": 1,
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "b": {
-      "grund": 0,
-      "userId": 2,
-      "fach": "DAZ",
-      "userIdNeu": 3,
+    {
+      "id": 2,
+      "grund": 1,
+      "userId": 1,
+      "fach": "Fö",
+      "userIdNeu": 0,
       "fachNeu": ""
     }
+      ],
   },
   {
     "id": 2,
     "tag": "Dienstag",
-    "a": {
+    "stunde": [
+    {
+      "id": 1,
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "b": {
-      "grund": 0,
-      "userId": 2,
-      "fach": "DAZ",
-      "userIdNeu": 3,
+    {
+      "id": 2,
+      "grund": 1,
+      "userId": 1,
+      "fach": "Fö",
+      "userIdNeu": 0,
       "fachNeu": ""
     }
+      ],
   },
       {
     "id": 3,
     "tag": "Mitwoch",
-    "a": {
+    "stunde": [
+    {
+      "id": 1,
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "b": {
-      "grund": 0,
-      "userId": 2,
-      "fach": "DAZ",
-      "userIdNeu": 3,
+    {
+      "id": 2,
+      "grund": 1,
+      "userId": 1,
+      "fach": "Fö",
+      "userIdNeu": 0,
       "fachNeu": ""
     }
+      ],
   },
   {
     "id": 4,
     "tag": "Donnerstag",
-    "a": {
+    "stunde": [
+    {
+      "id": 1,
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "b": {
-      "grund": 0,
-      "userId": 2,
-      "fach": "DAZ",
-      "userIdNeu": 3,
+    {
+      "id": 2,
+      "grund": 1,
+      "userId": 1,
+      "fach": "Fö",
+      "userIdNeu": 0,
       "fachNeu": ""
     }
+      ],
   },
   {
     "id": 5,
     "tag": "Freitag",
-    "a": {
+    "stunde": [
+    {
+      "id": 1,
       "grund": 1,
       "userId": 1,
       "fach": "Fö",
       "userIdNeu": 0,
       "fachNeu": ""
     },
-    "b": {
-      "grund": 0,
-      "userId": 2,
-      "fach": "DAZ",
-      "userIdNeu": 3,
+    {
+      "id": 2,
+      "grund": 1,
+      "userId": 1,
+      "fach": "Fö",
+      "userIdNeu": 0,
       "fachNeu": ""
     }
+      ]
   }
   
 ]
