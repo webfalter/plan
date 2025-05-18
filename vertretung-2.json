@@ -1,113 +1,25 @@
-[
-  {
-    "id": 1,
-    "tag": "Montag",
-    "stunde": [
-    {
-      "id": 1,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    },
-    {
-      "id": 2,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    }
-      ],
-  },
-  {
-    "id": 2,
-    "tag": "Dienstag",
-    "stunde": [
-    {
-      "id": 1,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    },
-    {
-      "id": 2,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    }
-      ],
-  },
-      {
-    "id": 3,
-    "tag": "Mitwoch",
-    "stunde": [
-    {
-      "id": 1,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    },
-    {
-      "id": 2,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    }
-      ],
-  },
-  {
-    "id": 4,
-    "tag": "Donnerstag",
-    "stunde": [
-    {
-      "id": 1,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    },
-    {
-      "id": 2,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    }
-      ],
-  },
-  {
-    "id": 5,
-    "tag": "Freitag",
-    "stunde": [
-    {
-      "id": 1,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    },
-    {
-      "id": 2,
-      "grund": 1,
-      "userId": 1,
-      "fach": "Fö",
-      "userIdNeu": 0,
-      "fachNeu": ""
-    }
-      ]
-  }
-  
-]
+{
+  "tag": [
+        {
+            "name" : "Montag",
+            "color" : "#B33234"
+        },
+        {
+            "name" : "Dienstag",
+            "color" : "#FFC300"
+        },
+        {
+            "name" : "Mittwoch",
+            "color" : "#244026"
+        },
+        {
+            "name" : "Donnerstag",
+            "color" : "#462F97"
+        },
+        {
+            "name" : "Freitag",
+            "color" : "#05F967"
+        }
+    ]
+
+}
