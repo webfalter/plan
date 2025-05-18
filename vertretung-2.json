@@ -1,14 +1,81 @@
 [
   {
-    "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
-    "isActive": false,
+    "id": "1",
+    "isActive": true,
     "name": "Montag",
-    "age": 21,
-    "company": "Imkan",
-    "email": "alfordrodriguez@imkan.com",
-    "address": "907 Nelson Street, Cotopaxi, South Dakota, 5913",
-    "about": "Occaecat consequat elit aliquip magna laboris dolore laboris sunt officia adipisicing reprehenderit sunt. Do in proident consectetur labore. Laboris pariatur quis incididunt nostrud labore ad cillum veniam ipsum ullamco. Dolore laborum commodo veniam nisi. Eu ullamco cillum ex nostrud fugiat eu consequat enim cupidatat. Non incididunt fugiat cupidatat reprehenderit nostrud eiusmod eu sit minim do amet qui cupidatat. Elit aliquip nisi ea veniam proident dolore exercitation irure est deserunt.",
-    "registered": "2015-11-10T01:47:18-00:00",
+    "stundea": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      },
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      },
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundeb": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundec": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stunded": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundee": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundef": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ],
+    "stundeg": [
+      {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "isActive": false,
+    "name": "Dienstag",
     "stundea": [
       {
         "name": 1,
