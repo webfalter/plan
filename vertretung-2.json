@@ -157,12 +157,42 @@
         "facha": "De"
       }
     ],
-    "stundeb": [],
-    "stundec": [],
-    "stunded": [],
-    "stundee": [],
-    "stundef": [],
-    "stundeg": []
+    "stundeb": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundec": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stunded": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundee": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundef": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundeg": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }]
   },
   {
     "id": "4",
@@ -176,12 +206,42 @@
         "facha": "De"
       }
     ],
-    "stundeb": [],
-    "stundec": [],
-    "stunded": [],
-    "stundee": [],
-    "stundef": [],
-    "stundeg": []
+    "stundeb": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundec": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stunded": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundee": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundef": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundeg": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }]
   },
   {
     "id": "5",
@@ -195,11 +255,41 @@
         "facha": "De"
       }
     ],
-    "stundeb": [],
-    "stundec": [],
-    "stunded": [],
-    "stundee": [],
-    "stundef": [],
-    "stundeg": []
+    "stundeb": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundec": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stunded": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundee": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundef": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }],
+    "stundeg": [  {
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De"
+      }]
   }
 ]
