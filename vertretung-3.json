@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Montag",
+    "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],
+    "stunden": [
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "stunde": 3,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Dienstag",
+    "stunden": [
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Mittwoch",
+      "stunden": [
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Donnerstag",
+       "stunden": [
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "isActive": false,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Freitag",
+    "stunden": [
+      {
+        "stunde": 1,
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  }
+]
