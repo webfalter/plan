@@ -1,0 +1,456 @@
+[
+  {
+    "id": "1",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Montag",
+    "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],
+    "stundea": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeb": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundec": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stunded": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundee": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundef": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Dienstag",
+    "stundea": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      },
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeb": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundec": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stunded": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundee": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundef": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Mittwoch",
+    "stundea": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeb": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundec": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stunded": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundee": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundef": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "isActive": true,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Donnerstag",
+    "stundea": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeb": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundec": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stunded": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundee": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundef": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "isActive": false,
+    "isActiveA": true,
+    "isActiveB": true,
+    "isActiveC": true,
+    "isActiveD": true,
+    "isActiveE": false,
+    "isActiveF": true,
+    "isActiveG": false,
+    "name": "Freitag",
+    "stundea": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeb": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundec": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stunded": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundee": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundef": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ],
+    "stundeg": [
+      {
+        "klasse": "",
+        "name": 1,
+        "fach": "Daz",
+        "namea": 2,
+        "facha": "De",
+        "klassea": ""
+      }
+    ]
+  }
+]
