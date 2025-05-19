@@ -114,7 +114,7 @@
         "name": 0,
         "fach": "Ma",
         "namea": 7,
-        "facha": "Etik",
+        "facha": "Ethik",
         "klassea": "4a"
       },
       {
@@ -125,7 +125,7 @@
         "namea": 9,
         "facha": "DAZ",
         "klassea": "1a"
-            },
+      },
       {
         "stunde": 5,
         "klasse": "2a",
@@ -134,7 +134,7 @@
         "namea": 10,
         "facha": "",
         "klassea": ""
-                  },
+      },
       {
         "stunde": 5,
         "klasse": "2a",
