@@ -63,6 +63,18 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Dienstag",
+    "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],
     "stunden": [
       {
         "stunde": 1,
@@ -86,7 +98,19 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Mittwoch",
-      "stunden": [
+        "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],
+    "stunden": [
       {
         "stunde": 1,
         "klasse": "",
@@ -109,7 +133,19 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Donnerstag",
-       "stunden": [
+        "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],   
+    "stunden": [
       {
         "stunde": 1,
         "klasse": "",
@@ -132,6 +168,18 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Freitag",
+        "abwesend": [
+      "lehrer": [
+       {
+         "name": ""
+         }
+       ],
+        "klasse": [
+            {
+         "name": ""
+         }
+       ]
+     ],
     "stunden": [
       {
         "stunde": 1,
