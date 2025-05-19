@@ -10,18 +10,16 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Montag",
-    "abwesend": [
-      "lehrer": [
-       {
-         "name": ""
-         }
-       ],
-        "klasse": [
-            {
-         "name": ""
-         }
-       ]
-     ],
+    "lehrer": [
+      {
+        "name": ""
+      }
+    ],
+    "klasse": [
+      {
+        "name": ""
+      }
+    ],
     "stunden": [
       {
         "stunde": 1,
@@ -63,18 +61,16 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Dienstag",
-    "abwesend": [
-      "lehrer": [
-       {
-         "name": ""
-         }
-       ],
-        "klasse": [
-            {
-         "name": ""
-         }
-       ]
-     ],
+    "lehrer": [
+      {
+        "name": ""
+      }
+    ],
+    "klasse": [
+      {
+        "name": ""
+      }
+    ],
     "stunden": [
       {
         "stunde": 1,
@@ -98,18 +94,16 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Mittwoch",
-        "abwesend": [
-      "lehrer": [
-       {
-         "name": ""
-         }
-       ],
-        "klasse": [
-            {
-         "name": ""
-         }
-       ]
-     ],
+    "lehrer": [
+      {
+        "name": ""
+      }
+    ],
+    "klasse": [
+      {
+        "name": ""
+      }
+    ],
     "stunden": [
       {
         "stunde": 1,
@@ -133,18 +127,16 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Donnerstag",
-        "abwesend": [
-      "lehrer": [
-       {
-         "name": ""
-         }
-       ],
-        "klasse": [
-            {
-         "name": ""
-         }
-       ]
-     ],   
+    "lehrer": [
+      {
+        "name": ""
+      }
+    ],
+    "klasse": [
+      {
+        "name": ""
+      }
+    ],
     "stunden": [
       {
         "stunde": 1,
@@ -168,18 +160,16 @@
     "isActiveF": true,
     "isActiveG": false,
     "name": "Freitag",
-        "abwesend": [
-      "lehrer": [
-       {
-         "name": ""
-         }
-       ],
-        "klasse": [
-            {
-         "name": ""
-         }
-       ]
-     ],
+    "lehrer": [
+      {
+        "name": ""
+      }
+    ],
+    "klasse": [
+      {
+        "name": ""
+      }
+    ],
     "stunden": [
       {
         "stunde": 1,
