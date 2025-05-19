@@ -12,12 +12,12 @@
     "name": "Montag",
     "lehrer": [
       {
-        "name": "1"
+        "name": "a"
       }
     ],
     "klasse": [
       {
-        "name": "2"
+        "name": "b"
       }
     ],
     "stunden": [
