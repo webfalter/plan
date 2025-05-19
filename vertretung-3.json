@@ -74,12 +74,21 @@
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
+        "klasse": "4c",
         "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
+        "fach": "Fö",
+        "namea": 0,
+        "facha": "",
         "klassea": ""
+      },
+      {
+        "stunde": 2,
+        "klasse": "4b",
+        "name": 0,
+        "fach": "Deu",
+        "namea": 6,
+        "facha": "DAZ",
+        "klassea": "3a"
       }
     ]
   },
