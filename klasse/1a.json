@@ -2,7 +2,7 @@
   {
     "id": "1",
     "isActive": true,
-    "klasse": "a",
+    "klass": "a",
     "name": "Montag",
     "timetable": [
       {
@@ -40,7 +40,7 @@
   {
     "id": "2",
     "isActive": true,
-    "klassse": "b",
+    "klasss": "b",
     "name": "Dienstag",
     "timetable": [
       {
@@ -84,7 +84,7 @@
   {
     "id": "3",
     "isActive": true,
-    "klassse": "c",
+    "klasss": "c",
     "name": "Mittwoch",
     "timetable": [
       {
@@ -98,7 +98,7 @@
   {
     "id": "4",
     "isActive": true,
-    "klasse": "e",
+    "klass": "e",
     "name": "Donnerstag",
     "timetable": [
       {
@@ -112,7 +112,7 @@
   {
     "id": "5",
     "isActive": false,
-    "klasse": "d",
+    "klass": "d",
     "name": "Freitag",
     "timetable": [
       {
