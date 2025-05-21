@@ -4,7 +4,7 @@
     "isActive": true,
     "klasse": "1a",
     "name": "Montag",
-    "table": [
+    "timetable": [
       {
         "stunde": 1,
         "name": 1,
@@ -42,7 +42,7 @@
     "isActive": true,
     "klassse": "",
     "name": "Dienstag",
-    "table": [
+    "timetable": [
       {
         "stunde": 1,
         "name": 3,
@@ -86,7 +86,7 @@
     "isActive": true,
     "klassse": "",
     "name": "Mittwoch",
-    "table": [
+    "timetable": [
       {
         "stunde": 1,
         "name": 3,
@@ -100,7 +100,7 @@
     "isActive": true,
     "klasse": "",
     "name": "Donnerstag",
-    "table": [
+    "timetable": [
       {
         "stunde": 1,
         "name": 3,
@@ -114,7 +114,7 @@
     "isActive": false,
     "klasse": "",
     "name": "Freitag",
-    "table": [
+    "timetable": [
       {
         "stunde": 1,
         "name": 3,
