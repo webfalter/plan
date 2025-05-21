@@ -2,246 +2,112 @@
   {
     "id": "1",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "klasse": "1a",
     "name": "Montag",
-    "lehrer": [
-      {
-        "name": "a"
-      }
-    ],
-    "klasse": [
-      {
-        "name": "b"
-      }
-    ],
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
         "name": 3,
         "fach": "Foe",
-        "namea": 2,
-        "facha": "Ma",
-        "klassea": ""
+        "raum": 2
       },
       {
-        "stunde": 1,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
-        "klassea": ""
+        "stunde": 2,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       },
       {
         "stunde": 3,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
-        "klassea": ""
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       }
     ]
   },
   {
     "id": "2",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "klassse": "",
     "name": "Dienstag",
-    "lehrer": [
-      {
-        "name": ""
-      }
-    ],
-    "klasse": [
-      {
-        "name": ""
-      }
-    ],
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "4c",
-        "name": 1,
-        "fach": "Fö",
-        "namea": 0,
-        "facha": "",
-        "klassea": ""
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       },
       {
-        "stunde": 2,
-        "klasse": "4b",
-        "name": 0,
-        "fach": "Ma",
-        "namea": 6,
-        "facha": "DAZ",
-        "klassea": "3a"
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       },
       {
-        "stunde": 2,
-        "klasse": "4c",
-        "name": 0,
-        "fach": "Ma",
-        "namea": 5,
-        "facha": "DAZ",
-        "klassea": "2b"
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       },
       {
-        "stunde": 3,
-        "klasse": "4c",
-        "name": 0,
-        "fach": "D",
-        "namea": 8,
-        "facha": "DAZ",
-        "klassea": "2a"
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
           },
       {
-        "stunde": 3,
-        "klasse": "4b",
-        "name": 0,
-        "fach": "Ma",
-        "namea": 7,
-        "facha": "Ethik",
-        "klassea": "4a"
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       },
       {
-        "stunde": 4,
-        "klasse": "4c",
-        "name": 0,
-        "fach": "Su",
-        "namea": 9,
-        "facha": "DAZ",
-        "klassea": "1a"
-      },
-      {
-        "stunde": 5,
-        "klasse": "2a",
-        "name": 0,
-        "fach": "Wk",
-        "namea": 10,
-        "facha": "",
-        "klassea": ""
-      },
-      {
-        "stunde": 5,
-        "klasse": "2a",
-        "name": 0,
-        "fach": "Wk",
-        "namea": 10,
-        "facha": "",
-        "klassea": ""
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       }
     ]
   },
   {
     "id": "3",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "klassse": "",
     "name": "Mittwoch",
-    "lehrer": [
-      {
-        "name": ""
-      }
-    ],
-    "klasse": [
-      {
-        "name": ""
-      }
-    ],
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
-        "klassea": ""
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       }
     ]
   },
   {
     "id": "4",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "klasse": "",
     "name": "Donnerstag",
-    "lehrer": [
-      {
-        "name": ""
-      }
-    ],
-    "klasse": [
-      {
-        "name": ""
-      }
-    ],
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
-        "klassea": ""
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       }
     ]
   },
   {
     "id": "5",
     "isActive": false,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "klasse": "",
     "name": "Freitag",
-    "lehrer": [
-      {
-        "name": ""
-      }
-    ],
-    "klasse": [
-      {
-        "name": ""
-      }
-    ],
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
-        "name": 5,
-        "fach": "Musik",
-        "namea": 6,
-        "facha": "Sport",
-        "klassea": ""
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
       }
     ]
   }
