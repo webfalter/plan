@@ -7,20 +7,32 @@
     "stunden": [
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 1,
+        "fach": "Deu",
         "raum": 2
       },
       {
         "stunde": 2,
-        "name": 3,
-        "fach": "Foe",
+        "name": 1,
+        "fach": "Ma",
         "raum": 2
       },
       {
         "stunde": 3,
-        "name": 3,
-        "fach": "Foe",
+        "name": 1,
+        "fach": "Deu",
+        "raum": 2
+      },
+      {
+        "stunde": 4,
+        "name": 1,
+        "fach": "Wk",
+        "raum": 2
+            },
+      {
+        "stunde": 5,
+        "name": 1,
+        "fach": "Fö",
         "raum": 2
       }
     ]
