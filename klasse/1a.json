@@ -114,9 +114,9 @@
     "isActive": false,
     "klasse": "",
     "name": "Freitag",
-    "stunden": [
+    "table": [
       {
-        "table": 1,
+        "stunde": 1,
         "name": 3,
         "fach": "Foe",
         "raum": 2
