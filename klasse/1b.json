@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1",
+    "isActive": true,
+    "klass": "1",
+    "name": "Montag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 1,
+        "fach": "Ma",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 1,
+        "fach": "Deu",
+        "raum": 2
+      },
+      {
+        "stunde": 3,
+        "name": 1,
+        "fach": "Mu",
+        "raum": 2
+      },
+      {
+        "stunde": 4,
+        "name": 1,
+        "fach": "Su",
+        "raum": 2
+      },
+      {
+        "stunde": 5,
+        "name": 1,
+        "fach": "Fö",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "isActive": true,
+    "klasss": "2",
+    "name": "Dienstag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "isActive": true,
+    "klasss": "3",
+    "name": "Mittwoch",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "isActive": true,
+    "klass": "4",
+    "name": "Donnerstag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "isActive": false,
+    "klass": "5",
+    "name": "Freitag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "raum": 2
+      }
+    ]
+  }
+]
