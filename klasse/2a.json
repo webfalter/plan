@@ -63,7 +63,7 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 14,
+        "name": 8,
         "fach": "Foe",
         "namea": 0,
         "facha": "",
@@ -71,23 +71,23 @@
       },
       {
         "stunde": 2,
-        "name": 12,
-        "fach": "Deu",
-        "namea": 0,
-        "facha": "",
+        "name": 11,
+        "fach": "Sp",
+        "namea": 8,
+        "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 3,
-        "name": 12,
+        "name": 11,
         "fach": "Deu",
-        "namea": 14,
+        "namea": 8,
         "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 4,
-        "name": 14,
+        "name": 8,
         "fach": "Ma",
         "namea": 0,
         "facha": "",
@@ -96,15 +96,15 @@
       {
         "stunde": 5,
         "name": 12,
-        "fach": "Su",
-        "namea": 0,
-        "facha": "",
+        "fach": "Wk",
+        "namea": 8,
+        "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 6,
         "name": 12,
-        "fach": "DAZ",
+        "fach": "Wk",
         "namea": 0,
         "facha": "",
         "raum": 2
@@ -119,8 +119,32 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 11,
+        "fach": "Deu",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 11,
+        "fach": "Deu",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 3,
+        "name": 8,
+        "fach": "Ma",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 4,
+        "name": 8,
+        "fach": "Schw",
         "namea": 0,
         "facha": "",
         "raum": 2
