@@ -7,23 +7,23 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 12,
-        "fach": "Sp",
+        "name": 8,
+        "fach": "Deu",
         "namea": 0,
         "facha": "",
         "raum": 2
       },
       {
         "stunde": 2,
-        "name": 12,
-        "fach": "Deu",
+        "name": 11,
+        "fach": "Sp",
         "namea": 0,
         "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 3,
-        "name": 14,
+        "name": 8,
         "fach": "Ma",
         "namea": 0,
         "facha": "DAZ",
@@ -31,7 +31,7 @@
       },
       {
         "stunde": 4,
-        "name": 11,
+        "name": 8,
         "fach": "Ma",
         "namea": 0,
         "facha": "",
@@ -39,7 +39,23 @@
       },
       {
         "stunde": 5,
-        "name": 13,
+        "name": 8,
+        "fach": "Ku",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 6,
+        "name": 8,
+        "fach": "Su",
+        "namea": 15,
+        "facha": "DAZ",
+        "raum": 2
+            },
+      {
+        "stunde": 7,
+        "name": 3,
         "fach": "Mu",
         "namea": 0,
         "facha": "",
