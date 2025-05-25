@@ -62,7 +62,7 @@
         "raum": 2
       },
       {
-        "stunde": 1,
+        "stunde": 2,
         "name": 12,
         "fach": "Deu",
         "namea": 0,
@@ -70,7 +70,7 @@
         "raum": 2
       },
       {
-        "stunde": 1,
+        "stunde": 3,
         "name": 12,
         "fach": "Deu",
         "namea": 14,
@@ -78,7 +78,7 @@
         "raum": 2
       },
       {
-        "stunde": 1,
+        "stunde": 4,
         "name": 14,
         "fach": "Ma",
         "namea": 0,
@@ -86,7 +86,7 @@
         "raum": 2
       },
       {
-        "stunde": 1,
+        "stunde": 5,
         "name": 12,
         "fach": "Su",
         "namea": 0,
@@ -94,7 +94,7 @@
         "raum": 2
       },
       {
-        "stunde": 1,
+        "stunde": 6,
         "name": 12,
         "fach": "DAZ",
         "namea": 0,
