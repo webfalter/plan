@@ -7,40 +7,40 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 1,
-        "fach": "Ma",
-        "namea": 1,
-        "facha": "DAZ",
+        "name": 12,
+        "fach": "Sp",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 2,
-        "name": 1,
+        "name": 12,
         "fach": "Deu",
-        "namea": 1,
+        "namea": 0,
         "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 3,
-        "name": 1,
-        "fach": "Mu",
-        "namea": 1,
+        "name": 14,
+        "fach": "Ma",
+        "namea": 0,
         "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 4,
-        "name": 1,
-        "fach": "Su",
+        "name": 11,
+        "fach": "Ma",
         "namea": 0,
         "facha": "",
         "raum": 2
       },
       {
         "stunde": 5,
-        "name": 1,
-        "fach": "Fö",
+        "name": 13,
+        "fach": "Mu",
         "namea": 0,
         "facha": "",
         "raum": 2
@@ -55,7 +55,7 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 3,
+        "name": 14,
         "fach": "Foe",
         "namea": 0,
         "facha": "",
@@ -63,40 +63,40 @@
       },
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 12,
+        "fach": "Deu",
         "namea": 0,
         "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 12,
+        "fach": "Deu",
+        "namea": 14,
+        "facha": "DAZ",
+        "raum": 2
+      },
+      {
+        "stunde": 1,
+        "name": 14,
+        "fach": "Ma",
         "namea": 0,
         "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 12,
+        "fach": "Su",
         "namea": 0,
         "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
-        "namea": 0,
-        "facha": "",
-        "raum": 2
-      },
-      {
-        "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 12,
+        "fach": "DAZ",
         "namea": 0,
         "facha": "",
         "raum": 2
