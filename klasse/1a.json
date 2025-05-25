@@ -111,10 +111,18 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 1,
+        "fach": "Deu",
         "namea": 0,
         "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 10,
+        "fach": "Sp",
+        "namea": 11,
+        "facha": "DAZ",
         "raum": 2
       }
     ]
@@ -127,10 +135,18 @@
     "timetable": [
       {
         "stunde": 1,
-        "name": 3,
-        "fach": "Foe",
+        "name": 1,
+        "fach": "Deu",
         "namea": 0,
         "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 10,
+        "fach": "Sp",
+        "namea": 11,
+        "facha": "DAZ",
         "raum": 2
       }
     ]
