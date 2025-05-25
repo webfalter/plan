@@ -9,30 +9,40 @@
         "stunde": 1,
         "name": 1,
         "fach": "Ma",
+        "namea": 1,
+        "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 2,
         "name": 1,
         "fach": "Deu",
+        "namea": 1,
+        "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 3,
         "name": 1,
         "fach": "Mu",
+        "namea": 1,
+        "facha": "DAZ",
         "raum": 2
       },
       {
         "stunde": 4,
         "name": 1,
         "fach": "Su",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 5,
         "name": 1,
         "fach": "Fö",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       }
     ]
@@ -47,36 +57,48 @@
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       },
       {
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       }
     ]
@@ -91,6 +113,8 @@
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       }
     ]
@@ -105,6 +129,8 @@
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       }
     ]
@@ -119,6 +145,8 @@
         "stunde": 1,
         "name": 3,
         "fach": "Foe",
+        "namea": 0,
+        "facha": "",
         "raum": 2
       }
     ]
