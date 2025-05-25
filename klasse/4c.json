@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "isActive": true,
+    "klass": "1",
+    "name": "Montag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 12,
+        "fach": "Sp",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 12,
+        "fach": "Deu",
+        "namea": 0,
+        "facha": "DAZ",
+        "raum": 2
+      },
+      {
+        "stunde": 3,
+        "name": 14,
+        "fach": "Ma",
+        "namea": 0,
+        "facha": "DAZ",
+        "raum": 2
+      },
+      {
+        "stunde": 4,
+        "name": 11,
+        "fach": "Ma",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 5,
+        "name": 13,
+        "fach": "Mu",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "isActive": true,
+    "klasss": "2",
+    "name": "Dienstag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 14,
+        "fach": "Foe",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 2,
+        "name": 12,
+        "fach": "Deu",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 3,
+        "name": 12,
+        "fach": "Deu",
+        "namea": 14,
+        "facha": "DAZ",
+        "raum": 2
+      },
+      {
+        "stunde": 4,
+        "name": 14,
+        "fach": "Ma",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 5,
+        "name": 12,
+        "fach": "Su",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      },
+      {
+        "stunde": 6,
+        "name": 12,
+        "fach": "DAZ",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "isActive": true,
+    "klasss": "3",
+    "name": "Mittwoch",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "isActive": true,
+    "klass": "4",
+    "name": "Donnerstag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "isActive": false,
+    "klass": "5",
+    "name": "Freitag",
+    "timetable": [
+      {
+        "stunde": 1,
+        "name": 3,
+        "fach": "Foe",
+        "namea": 0,
+        "facha": "",
+        "raum": 2
+      }
+    ]
+  }
+]
