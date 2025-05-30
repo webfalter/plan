@@ -99,11 +99,56 @@
       {
         "stunde": 2,
         "klasse": "1a",
-        "name": 12,
+        "name": 0,
         "fach": "Sport",
-        "namea": 2,
+        "namea": 12,
         "facha": "DAZ",
         "klassea": "1b"
+      },
+      {
+        "stunde": 4,
+        "klasse": "3a",
+        "name": 0,
+        "fach": "DAZ",
+        "namea": 0,
+        "facha": "",
+        "klassea": ""
+      },
+      {
+        "stunde": 4,
+        "klasse": "4c",
+        "name": 0,
+        "fach": "Sport",
+        "namea": 16,
+        "facha": "Fö",
+        "klassea": ""
+      },
+      {
+        "stunde": 5,
+        "klasse": "1a",
+        "name": 0,
+        "fach": "Mu",
+        "namea": 9,
+        "facha": "DAZ",
+        "klassea": "1b"
+            },
+      {
+        "stunde": 5,
+        "klasse": "4b",
+        "name": 0,
+        "fach": "Wk",
+        "namea": 16,
+        "facha": "Ehtik",
+        "klassea": "4b"
+                  },
+      {
+        "stunde": 6,
+        "klasse": "4b",
+        "name": 0,
+        "fach": "Wk",
+        "namea": 16,
+        "facha": "Ehtik",
+        "klassea": "4b"
       }
     ]
   },
