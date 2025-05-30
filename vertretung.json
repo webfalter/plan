@@ -227,12 +227,39 @@
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
-        "name": 5,
-        "fach": "Musik",
-        "namea": 6,
-        "facha": "Sport",
-        "klassea": ""
+        "klasse": "3c",
+        "name": 0,
+        "fach": "Mu",
+        "namea": 9,
+        "facha": "DAZ",
+        "klassea": "1b"
+      },
+      {
+        "stunde": 2,
+        "klasse": "4b",
+        "name": 0,
+        "fach": "Deu",
+        "namea": 9,
+        "facha": "DaZ",
+        "klassea": "1a"
+            },
+      {
+        "stunde": 3,
+        "klasse": "1b",
+        "name": 0,
+        "fach": "Wk",
+        "namea": 17,
+        "facha": "Ma",
+        "klassea": "4d"
+         },
+      {
+        "stunde": 4,
+        "klasse": "4b",
+        "name": 0,
+        "fach": "Deu",
+        "namea": 9,
+        "facha": "Daz",
+        "klassea": "1a"
       }
     ]
   }
