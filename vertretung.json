@@ -2,13 +2,6 @@
   {
     "id": "1",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
     "name": "Montag",
     "lehrer": [
       {
@@ -34,14 +27,7 @@
   },
   {
     "id": "2",
-    "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "isActive": false,
     "name": "Dienstag",
     "lehrer": [
       {
@@ -77,13 +63,6 @@
   {
     "id": "3",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
     "name": "Mittwoch",
     "lehrer": [
       {
@@ -155,13 +134,6 @@
   {
     "id": "4",
     "isActive": true,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
     "name": "Donnerstag",
     "lehrer": [
       {
@@ -205,14 +177,7 @@
   },
   {
     "id": "5",
-    "isActive": false,
-    "isActiveA": true,
-    "isActiveB": true,
-    "isActiveC": true,
-    "isActiveD": true,
-    "isActiveE": false,
-    "isActiveF": true,
-    "isActiveG": false,
+    "isActive": true,
     "name": "Freitag",
     "lehrer": [
       {
