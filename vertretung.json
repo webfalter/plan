@@ -175,12 +175,30 @@
     ],
     "stunden": [
       {
-        "stunde": 1,
-        "klasse": "",
-        "name": 1,
+        "stunde": 4,
+        "klasse": "3a",
+        "name": 0,
         "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
+        "namea": 0,
+        "facha": "",
+        "klassea": ""
+      },
+      {
+        "stunde": 5,
+        "klasse": "3b",
+        "name": 0,
+        "fach": "Wk",
+        "namea": 14,
+        "facha": "",
+        "klassea": ""
+       },
+      {
+        "stunde": 6,
+        "klasse": "3b",
+        "name": 0,
+        "fach": "Wk",
+        "namea": 14,
+        "facha": "",
         "klassea": ""
       }
     ]
