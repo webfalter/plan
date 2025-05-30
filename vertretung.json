@@ -23,29 +23,11 @@
     "stunden": [
       {
         "stunde": 1,
-        "klasse": "",
+        "klasse": "4b",
         "name": 3,
         "fach": "Foe",
-        "namea": 2,
-        "facha": "Ma",
-        "klassea": ""
-      },
-      {
-        "stunde": 1,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
-        "klassea": ""
-      },
-      {
-        "stunde": 3,
-        "klasse": "",
-        "name": 1,
-        "fach": "Daz",
-        "namea": 2,
-        "facha": "De",
+        "namea": 0 
+        "facha": "",
         "klassea": ""
       }
     ]
