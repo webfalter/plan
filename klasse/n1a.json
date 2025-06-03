@@ -9,10 +9,10 @@
         "content_group": "regular_stunenplan",
         "items": [
             {
-                "title": "1",
+                "id": 1,
+                "name": "Montag",
                 "is_Active": "1",
                 "tage": "1",
-                "id": 11,
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
@@ -37,10 +37,10 @@
                 ]
             },
             {
-                "title": "2",
+                "id": 2,
+                "name": "Dienstag",
                 "is_Active": "0",
-                "tage": "2",
-                "id": 12,
+                "tage": "1",
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
@@ -50,10 +50,10 @@
                 "timetable": []
             },
             {
-                "title": "3",
-                "is_Active": "0",
-                "tage": "3",
-                "id": 14,
+                "id": 3,
+                "name": "Mittwoch",
+                "is_Active": "1",
+                "tage": "1",
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
@@ -78,10 +78,10 @@
                 ]
             },
             {
-                "title": "4",
-                "is_Active": "0",
-                "tage": "4",
-                "id": 15,
+                "id": 4,
+                "name": "Donnerstag",
+                "is_Active": "1",
+                "tage": "1",
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
@@ -91,10 +91,10 @@
                 "timetable": []
             },
             {
-                "title": "5",
+                "id": 5,
+                "name": "Freitag",
                 "is_Active": "1",
-                "tage": "5",
-                "id": 18,
+                "tage": "1",
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
