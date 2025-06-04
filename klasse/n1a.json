@@ -6,7 +6,7 @@
             {
                 "id": 1,
                 "nameb": "Montag",
-                "is_Active": "1",
+                "is_Active": true,
                 "tage": "1",
                 "timetable": [
                     {
@@ -35,7 +35,7 @@
             {
                 "id": 3,
                 "nameb": "Mittwoch",
-                "is_Active": "1",
+                "is_Active": false,
                 "tage": "1",
                 "timetable": [
                     {
@@ -57,7 +57,7 @@
             {
                 "id": 4,
                 "nameb": "Donnerstag",
-                "is_Active": "1",
+                "is_Active": true,
                 "tage": "1",
                 "site_id": null,
                 "content_group": null,
@@ -70,7 +70,7 @@
             {
                 "id": 5,
                 "nameb": "Freitag",
-                "is_Active": "1",
+                "is_Active": true,
                 "tage": "1",
                 "timetable": [
                     {
