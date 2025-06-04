@@ -10,7 +10,7 @@
         "items": [
             {
                 "id": 1,
-                "name": "Montag",
+                "nameb": "Montag",
                 "is_Active": "1",
                 "tage": "1",
                 "site_id": null,
@@ -38,7 +38,7 @@
             },
             {
                 "id": 2,
-                "name": "Dienstag",
+                "nameb": "Dienstag",
                 "is_Active": "0",
                 "tage": "1",
                 "site_id": null,
@@ -51,7 +51,7 @@
             },
             {
                 "id": 3,
-                "name": "Mittwoch",
+                "nameb": "Mittwoch",
                 "is_Active": "1",
                 "tage": "1",
                 "site_id": null,
@@ -79,7 +79,7 @@
             },
             {
                 "id": 4,
-                "name": "Donnerstag",
+                "nameb": "Donnerstag",
                 "is_Active": "1",
                 "tage": "1",
                 "site_id": null,
@@ -92,7 +92,7 @@
             },
             {
                 "id": 5,
-                "name": "Freitag",
+                "nameb": "Freitag",
                 "is_Active": "1",
                 "tage": "1",
                 "site_id": null,
