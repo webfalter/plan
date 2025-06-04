@@ -2,23 +2,12 @@
     {
         "id": 2,
         "title": "Klasse1a",
-        "slug": "klasse1a",
-        "is_enabled": 1,
-        "published_at": null,
-        "expired_at": null,
-        "content_group": "regular_stunenplan",
         "items": [
             {
                 "id": 1,
                 "nameb": "Montag",
                 "is_Active": "1",
                 "tage": "1",
-                "site_id": null,
-                "content_group": null,
-                "parent_id": null,
-                "sort_order": 11,
-                "created_at": "2025-06-03 14:46:20",
-                "updated_at": "2025-06-03 14:46:20",
                 "timetable": [
                     {
                         "stunde": "1",
@@ -41,12 +30,6 @@
                 "nameb": "Dienstag",
                 "is_Active": "0",
                 "tage": "1",
-                "site_id": null,
-                "content_group": null,
-                "parent_id": null,
-                "sort_order": 12,
-                "created_at": "2025-06-03 14:46:28",
-                "updated_at": "2025-06-03 14:46:28",
                 "timetable": []
             },
             {
@@ -54,12 +37,6 @@
                 "nameb": "Mittwoch",
                 "is_Active": "1",
                 "tage": "1",
-                "site_id": null,
-                "content_group": null,
-                "parent_id": null,
-                "sort_order": 14,
-                "created_at": "2025-06-03 14:46:37",
-                "updated_at": "2025-06-03 14:46:37",
                 "timetable": [
                     {
                         "stunde": "1",
@@ -95,12 +72,6 @@
                 "nameb": "Freitag",
                 "is_Active": "1",
                 "tage": "1",
-                "site_id": null,
-                "content_group": null,
-                "parent_id": null,
-                "sort_order": 18,
-                "created_at": "2025-06-03 14:46:57",
-                "updated_at": "2025-06-03 14:46:57",
                 "timetable": [
                     {
                         "stunde": "1",
