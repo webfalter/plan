@@ -1,13 +1,4 @@
-[
-    {
-        "id": 3,
-        "title": "Klasse 1a",
-        "slug": "klasse-1a",
-        "is_enabled": 1,
-        "published_at": null,
-        "expired_at": null,
-        "content_group": "regular_stunenplan",
-        "items": [
+ [
             {
                 "title": "montag",
                 "is_Active": "1",
@@ -79,5 +70,3 @@
                 ]
             }
         ]
-    }
-]
