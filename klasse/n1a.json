@@ -1,4 +1,4 @@
-[
+ [
             {
                 "title": "montag",
                 "is_Active": "1",
@@ -11,7 +11,7 @@
                 "parent_id": null,
                 "sort_order": 24,
                 "created_at": "2025-06-05 14:02:45",
-                "updated_at": "2025-06-05 14:45:28",
+                "updated_at": "2025-06-05 14:49:44",
                 "timetable": [
                     {
                         "stunde": "1",
@@ -90,14 +90,14 @@
                 "is_Active": "1",
                 "tage": "Dienstag",
                 "isActive": "0",
-                "tag": "Montag",
+                "tag": "Dienstag",
                 "id": 26,
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
                 "sort_order": 26,
                 "created_at": "2025-06-05 14:02:58",
-                "updated_at": "2025-06-05 14:45:19",
+                "updated_at": "2025-06-05 14:49:50",
                 "timetable": [
                     {
                         "stunde": "1",
@@ -120,14 +120,14 @@
                 "is_Active": "0",
                 "tage": "Mittwoch",
                 "isActive": "0",
-                "tag": "Montag",
+                "tag": "Mittwoch",
                 "id": 28,
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
                 "sort_order": 28,
                 "created_at": "2025-06-05 14:17:11",
-                "updated_at": "2025-06-05 14:45:12",
+                "updated_at": "2025-06-05 14:49:56",
                 "timetable": []
             },
             {
@@ -135,14 +135,14 @@
                 "is_Active": "1",
                 "tage": "Donnerstag",
                 "isActive": "0",
-                "tag": "Montag",
+                "tag": "Donnerstag",
                 "id": 29,
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
                 "sort_order": 29,
                 "created_at": "2025-06-05 14:17:18",
-                "updated_at": "2025-06-05 14:45:09",
+                "updated_at": "2025-06-05 14:50:02",
                 "timetable": [
                     {
                         "stunde": "1",
@@ -165,14 +165,14 @@
                 "is_Active": "1",
                 "tage": "Freitag",
                 "isActive": "0",
-                "tag": "Montag",
+                "tag": "Freitag",
                 "id": 30,
                 "site_id": null,
                 "content_group": null,
                 "parent_id": null,
                 "sort_order": 30,
                 "created_at": "2025-06-05 14:17:25",
-                "updated_at": "2025-06-05 14:45:03",
+                "updated_at": "2025-06-05 14:50:08",
                 "timetable": [
                     {
                         "stunde": "1",
