@@ -1,0 +1,189 @@
+[
+    {
+        "id": 3,
+        "title": "Klasse 1a",
+        "items": [
+            {
+                "title": "montag",
+                "is_Active": "1",
+                "tage": "Montag",
+                "id": 24,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 24,
+                "created_at": "2025-06-05 14:02:45",
+                "updated_at": "2025-06-05 14:03:20",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "2",
+                        "fach": "Deu",
+                        "namea": "3",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:02:35",
+                        "updated_at": "2025-06-05 14:02:45"
+                    },
+                    {
+                        "stunde": "2",
+                        "raum": "1",
+                        "name": "6",
+                        "fach": "Deu",
+                        "namea": "5",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 2,
+                        "created_at": "2025-06-05 14:03:02",
+                        "updated_at": "2025-06-05 14:03:12"
+                    },
+                    {
+                        "stunde": "3",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 3,
+                        "created_at": "2025-06-05 14:19:56",
+                        "updated_at": "2025-06-05 14:20:21"
+                    },
+                    {
+                        "stunde": "4",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 4,
+                        "created_at": "2025-06-05 14:20:03",
+                        "updated_at": "2025-06-05 14:20:21"
+                    },
+                    {
+                        "stunde": "5",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 5,
+                        "created_at": "2025-06-05 14:20:10",
+                        "updated_at": "2025-06-05 14:20:21"
+                    }
+                ]
+            },
+            {
+                "title": "dienstag",
+                "is_Active": "1",
+                "tage": "Dienstag",
+                "id": 26,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 26,
+                "created_at": "2025-06-05 14:02:58",
+                "updated_at": "2025-06-05 14:03:20",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:02:56",
+                        "updated_at": "2025-06-05 14:02:58"
+                    }
+                ]
+            },
+            {
+                "title": "mittwoch",
+                "is_Active": "0",
+                "tage": "Mittwoch",
+                "id": 28,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 28,
+                "created_at": "2025-06-05 14:17:11",
+                "updated_at": "2025-06-05 14:17:11",
+                "timetable": []
+            },
+            {
+                "title": "donnerstag",
+                "is_Active": "1",
+                "tage": "Donnerstag",
+                "id": 29,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 29,
+                "created_at": "2025-06-05 14:17:18",
+                "updated_at": "2025-06-05 14:20:47",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:20:41",
+                        "updated_at": "2025-06-05 14:20:47"
+                    }
+                ]
+            },
+            {
+                "title": "freitag",
+                "is_Active": "1",
+                "tage": "Freitag",
+                "id": 30,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 30,
+                "created_at": "2025-06-05 14:17:25",
+                "updated_at": "2025-06-05 14:20:34",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:20:32",
+                        "updated_at": "2025-06-05 14:20:34"
+                    }
+                ]
+            }
+        ]
+    }
+]
