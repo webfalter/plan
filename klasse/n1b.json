@@ -1,0 +1,83 @@
+[
+    {
+        "id": 3,
+        "title": "Klasse 1a",
+        "slug": "klasse-1a",
+        "is_enabled": 1,
+        "published_at": null,
+        "expired_at": null,
+        "content_group": "regular_stunenplan",
+        "items": [
+            {
+                "title": "montag",
+                "is_Active": "1",
+                "tage": "Montag",
+                "id": 24,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 24,
+                "created_at": "2025-06-05 14:02:45",
+                "updated_at": "2025-06-05 14:03:20",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "2",
+                        "fach": "Deu",
+                        "namea": "3",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:02:35",
+                        "updated_at": "2025-06-05 14:02:45"
+                    },
+                    {
+                        "stunde": "2",
+                        "raum": "1",
+                        "name": "6",
+                        "fach": "Deu",
+                        "namea": "5",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 2,
+                        "created_at": "2025-06-05 14:03:02",
+                        "updated_at": "2025-06-05 14:03:12"
+                    }
+                ]
+            },
+            {
+                "title": "dienstag",
+                "is_Active": "1",
+                "tage": "Dienstag",
+                "id": 26,
+                "site_id": null,
+                "content_group": null,
+                "parent_id": null,
+                "sort_order": 26,
+                "created_at": "2025-06-05 14:02:58",
+                "updated_at": "2025-06-05 14:03:20",
+                "timetable": [
+                    {
+                        "stunde": "1",
+                        "raum": "1",
+                        "name": "1",
+                        "fach": "Deu",
+                        "namea": "1",
+                        "facha": "Deu",
+                        "site_id": null,
+                        "content_group": null,
+                        "parent_id": null,
+                        "sort_order": 1,
+                        "created_at": "2025-06-05 14:02:56",
+                        "updated_at": "2025-06-05 14:02:58"
+                    }
+                ]
+            }
+        ]
+    }
+]
