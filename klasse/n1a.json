@@ -1,13 +1,4 @@
 [
-    {
-        "id": 2,
-        "title": "Klasse1a",
-        "slug": "klasse1a",
-        "is_enabled": 1,
-        "published_at": null,
-        "expired_at": null,
-        "content_group": "regular_stunenplan",
-        "items": [
             {
                 "title": "",
                 "is_Active": "1",
@@ -175,5 +166,4 @@
                 ]
             }
         ]
-    }
-]
+
