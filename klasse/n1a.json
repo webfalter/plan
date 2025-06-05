@@ -1,9 +1,5 @@
 [
     {
-        "id": 3,
-        "title": "Klasse 1a",
-        "items": [
-            {
                 "title": "montag",
                 "is_Active": "1",
                 "tage": "Montag",
@@ -183,7 +179,5 @@
                         "updated_at": "2025-06-05 14:20:34"
                     }
                 ]
-            }
-        ]
     }
 ]
