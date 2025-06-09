@@ -33,9 +33,9 @@
       {
         "stunde": 4,
         "raum": "1.01",
-        "name": 13,
+        "name": 14,
         "fach": "Wk",
-        "namea": 1,
+        "namea": 99,
         "facha": ""
       },
       {
@@ -43,7 +43,7 @@
         "raum": "1.01",
         "name": 1,
         "fach": "Foe",
-        "namea": 1,
+        "namea": 99,
         "facha": ""
       }
     ]
