@@ -3,7 +3,7 @@
     "id": 1,
     "isActive": "0",
     "tag": "Montag",
-    "lehrer": "1",
+    "lehrer": 1,
     "raum": "1.01",
     "timetable": [
       {
@@ -52,7 +52,7 @@
     "id": 2,
     "isActive": "0",
     "tag": "Dienstag",
-    "lehrer": "1",
+    "lehrer": 1,
     "raum": "1.01",
     "timetable": [
       {
