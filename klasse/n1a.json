@@ -4,7 +4,7 @@
     "isActive": "0",
     "tag": "Montag",
     "lehrer": "1",
-    "raum": "1.01",
+    "raum": 1.01,
     "timetable": [
       {
         "stunde": 1,
