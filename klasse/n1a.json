@@ -25,7 +25,7 @@
       }
                ,      {
         "stunde": 3,
-        "raum": ,
+        "raum": 1.01,
         "name": 1,
         "fach": "Deu",
         "namea": 11,
@@ -33,7 +33,7 @@
       }
                ,      {
         "stunde": 4,
-        "raum": ,
+        "raum": 1.01,
         "name": 13,
         "fach": "Wk",
         "namea": 1,
@@ -41,7 +41,7 @@
       }
                ,      {
         "stunde": 5,
-        "raum": ,
+        "raum": 1.01,
         "name": 1,
         "fach": "Foe",
         "namea": 1,
@@ -53,11 +53,11 @@
     "isActive": "0",
     "tag": "Dienstag",
     "lehrer": "1",
-    "raum": "",
+    "raum": 1.01,
     "timetable": [
                 {
         "stunde": 1,
-        "raum": ,
+        "raum": 1.01,
         "name": 1,
         "fach": "Ku",
         "namea": 9,
@@ -65,7 +65,7 @@
       }
                ,      {
         "stunde": 2,
-        "raum": ,
+        "raum": 1.01,
         "name": 1,
         "fach": "Ma",
         "namea": 9,
