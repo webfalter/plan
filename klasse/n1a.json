@@ -1,45 +1,44 @@
 [
   {
-      
     "id": 1,
     "isActive": "0",
     "tag": "Montag",
     "lehrer": "1",
     "raum": "1.01",
     "timetable": [
-                {
+      {
         "stunde": 1,
         "raum": 1.01,
         "name": 1,
         "fach": "Deu",
         "namea": 11,
         "facha": "DAZ"
-      }
-               ,      {
+      },
+      {
         "stunde": 2,
         "raum": 1.01,
         "name": 5,
         "fach": "Ma",
         "namea": 11,
         "facha": "DAZ"
-      }
-               ,      {
+      },
+      {
         "stunde": 3,
         "raum": 1.01,
         "name": 1,
         "fach": "Deu",
         "namea": 11,
         "facha": "DAZ"
-      }
-               ,      {
+      },
+      {
         "stunde": 4,
         "raum": 1.01,
         "name": 13,
         "fach": "Wk",
         "namea": 1,
         "facha": ""
-      }
-               ,      {
+      },
+      {
         "stunde": 5,
         "raum": 1.01,
         "name": 1,
@@ -47,23 +46,24 @@
         "namea": 1,
         "facha": ""
       }
-     ]                 
-       },{ 
+    ]
+  },
+  {
     "id": 2,
     "isActive": "0",
     "tag": "Dienstag",
     "lehrer": "1",
     "raum": 1.01,
     "timetable": [
-                {
+      {
         "stunde": 1,
         "raum": 1.01,
         "name": 1,
         "fach": "Ku",
         "namea": 9,
         "facha": "DAZ"
-      }
-               ,      {
+      },
+      {
         "stunde": 2,
         "raum": 1.01,
         "name": 1,
@@ -71,6 +71,6 @@
         "namea": 9,
         "facha": "DAZ"
       }
-     ]                 
-    }
+    ]
+  }
 ]
